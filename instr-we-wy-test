@@ -26,5 +26,5 @@ jeśli dochód > 30 000 zł → podatek 12% od 30 000 zł + 32% od nadwyżki.
 
 6. Oblicz ilość farby potrzebnej do pomalowania pokoju
 
-Program wczytuje długość, szerokość i wysokość pokoju (w metrach), oraz informację, ile metrów kwadratowych można pomalować 1 litrem farby.
+Program wczytuje długość i wysokość pokoju (w metrach), oraz informację, ile metrów kwadratowych można pomalować 1 litrem farby.
 Oblicz, ile litrów farby trzeba kupić.
